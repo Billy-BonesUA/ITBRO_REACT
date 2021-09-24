@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<document>
+		<head>
+			<groupname>Insider</groupname>
+			<docDate>23.09.2021</docDate>
+		</head>
+		<soldiers>
+			<soldier>
+				<number>1</number>
+				<nameOfSlack>Dmitriy Billy_Bones</nameOfSlack>
+				<name>Dmitriy</name>
+				<pseudo>Billy_Bones</pseudo>
+				<homeCity>Dnepr</homeCity>
+				<hobby>run</hobby>
+			</soldier>
+		</soldiers>
+	</document>
